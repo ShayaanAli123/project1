@@ -1,0 +1,6 @@
+spacy>=3.7
+matplotlib>=3.8
+pandas>=2.0
+numpy>=1.26
+bertopic>=0.16
+sentence-transformers>=3.0
